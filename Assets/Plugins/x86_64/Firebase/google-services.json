@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "474081668833",
+    "firebase_url": "https://touraider-c6d16.firebaseio.com",
+    "project_id": "touraider-c6d16",
+    "storage_bucket": "touraider-c6d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474081668833:android:854e9ec09ae75f3b",
+        "android_client_info": {
+          "package_name": "com.dankook.touraider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474081668833-r9ub3tfk1a2unlatuc98p7n4es4td9pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhJroWbzcUfandS22VBwxUkdHDVYEz6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
